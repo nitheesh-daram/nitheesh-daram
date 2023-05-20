@@ -1,6 +1,6 @@
 ### Hi there 👋🌍️
 
-<h1 align="center"> Nitheesh Daram🚀</h1>🚀
+<h1 align="center"> Nitheesh Daram🚀</h1>
 
 
 <!--
