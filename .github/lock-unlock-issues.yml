@@ -1,7 +1,5 @@
 '🏁 status: ready for dev':
   issues:
-      comment: >
-            The thread has been temporarily unlocked.Please follow our community guidelines.
       unlock : true
 
 
